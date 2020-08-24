@@ -1,3 +1,3 @@
-*coffee
-*art
-*coding
+* coffee
+* art
+* coding
